@@ -19,3 +19,10 @@
 - GitHub: forks, branches and PRs: important ➔ explain fork vs. clone!!!
 - strategies for keeping your fork up-to-date: your `main` and upstream's `main`, short-lived and long-lived topic branches
 - a more thorough and detailed explanation can be found on the [Numpy Contributor's Guide](https://docs.scipy.org/doc/numpy/dev/gitwash/index.html). This guide can be adapted to your own needs, see [gitwash](https://github.com/matthew-brett/gitwash).
+
+## Scenarios
+- lone scientist working alone in the cellar without Internet (local git)
+- lone scientist uploading their software to the Internet in the hope it can be useful for other people (local git + one personal GitHub repo)
+- lone scientist sharing one software project with other lone scientists working in different places (local git + o.p.G.r + permissions)
+- research group sharing software among members (local git + several GitHub repos + permissions + branches + [optional] PRs)
+- fully distributed software development using the most typical open source software workflows as used by numpy, scipy, sklearn, etc. (like above + we don't trust our contributors)
