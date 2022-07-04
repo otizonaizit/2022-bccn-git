@@ -19,6 +19,7 @@
 - GitHub: forks, branches and PRs: important ➔ explain fork vs. clone!!!
 - strategies for keeping your fork up-to-date: your `main` and upstream's `main`, short-lived and long-lived topic branches
 - a more thorough and detailed explanation can be found on the [Numpy Contributor's Guide](https://docs.scipy.org/doc/numpy/dev/gitwash/index.html). This guide can be adapted to your own needs, see [gitwash](https://github.com/matthew-brett/gitwash).
+- make it clear that GitHub is just an option (git≠GitHub)
 
 ## Scenarios
 - lone scientist working alone in the cellar without Internet (local git)
